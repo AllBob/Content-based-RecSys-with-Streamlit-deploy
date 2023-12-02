@@ -54,7 +54,7 @@ dkms.conf
 .ipynb_checkpoints
 
 # Datasets
-/src/.env
+src/.env
 src/assets/distance.csv
 src/assets/distance.csv
 
