@@ -56,7 +56,7 @@ dkms.conf
 # Datasets
 src/.env
 src/assets/distance.csv
-src/assets/distance.csv
+src/assets/movies.csv
 
 # myenv
 myenv/
